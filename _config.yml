@@ -1,0 +1,11 @@
+# my new items
+markdown: kramdown
+permalink: /:year/:month/:title 
+github: linfengzhou
+email: linfeng.zhou@nyu.edu
+url: http://linfengzhou.github.io
+name: Linfeng Zhou
+author: Linfeng Zhou
+pygments: true
+safe: true
+paginate: 20
