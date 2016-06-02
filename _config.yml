@@ -5,10 +5,10 @@ google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Googl
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   HeiswayiNrird
+author_name:        "Linfeng Zhou"
+author_email:       luke.zlf@gmail.com
+author_gravatar:    https://avatars0.githubusercontent.com/u/6144027?v=3&s=460 # Gravatar md5 hash
+twitter_username:   zhoulinfeng
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
