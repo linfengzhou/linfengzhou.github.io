@@ -6,7 +6,7 @@ lang: cn
 
 <div class="home">
 
-  <h1 class="page-heading">Articles</h1>
+  <h1 class="page-heading">文章</h1>
 
   <ul class="post-list">
     {% assign posts=site.posts | where:"lang", page.lang %}
@@ -21,6 +21,6 @@ lang: cn
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">suivre le <a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+  <p class="rss-subscribe">订阅<a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
 
 </div>
